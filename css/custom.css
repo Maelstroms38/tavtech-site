@@ -4,7 +4,7 @@ body {
 }
 
 ul.nav, .jumbotron h1 {
-	font-family: 'Arvo', courier, serif;
+	font-family: 'Arvo', 'Helvetica', serif;
 }
 
 ul.nav {
@@ -84,7 +84,7 @@ footer {
 
 .homepage h2, .homepage h3 {
 	color: rgb(18, 204, 212);
-	font-family: 'Arvo', courier, serif;
+	font-family: 'Arvo', 'Helvetica', serif;
 	text-transform: uppercase;
 }
 
