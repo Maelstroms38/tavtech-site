@@ -34,7 +34,7 @@ nav.navbar{
 }
 
 footer {
-	background-color: rgb(18, 204, 212);
+	background-color: #7AC9C6;
 	padding-top: 50px;
 	padding-bottom: 20px;
 }
@@ -115,8 +115,8 @@ footer {
 }
 
 .tavteal {
-	background-color: rgb(18, 204, 212);
-	border-color: rgb(18, 204, 212);
+	background-color: #7AC9C6;
+	border-color: #7AC9C6;
 }
 
 .homepage {
@@ -126,7 +126,7 @@ footer {
 }
 
 .homepage h2, .homepage h3 {
-	color: rgb(18, 204, 212);
+	color: #7AC9C6;
 	font-family: 'Montserrat', 'Helvetica', serif;
 	text-transform: uppercase;
 }
@@ -145,17 +145,17 @@ footer {
 }
 
 .homepage a {
-	color: rgb(18, 204, 212);
+	color: #7AC9C6;
 }
 
 .homepage a:hover {
-	color: rgb(18, 204, 212);
+	color: #7AC9C6;
 	text-decoration: none;
 	opacity: .8;
 }
 
 .homepage hr {
-	border-top: 1px solid rgb(18, 204, 212);
+	border-top: 1px solid #7AC9C6;
 	width: 160px;
 	margin-top: 15px;
 }
