@@ -21,12 +21,17 @@ p, b {
 	font-weight: 600;
 	font-style: normal;
 }
-
+.partner {
+	padding: 20px 0;
+}
 ul.nav {
 	font-size: 13px;
 }
 nav.navbar.transparent {
   background-color:transparent;
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+	background-color: transparent;
 }
 nav.navbar{
 	height: 75px;
@@ -48,7 +53,7 @@ footer {
 }
 
 .spaced {
-	padding: 160px 0;
+	padding: 190px 0;
 }
 
 .footer-text {
@@ -196,20 +201,20 @@ footer {
 @media (max-width: 767px) { 
 
 	.jumbotron h1 {
-		font-size: 24px;
+		font-size: 48px;
 	}
 
 	.jumbotron p {
-		font-size: 16px;
+		font-size: 18px;
 		padding: 0;
 	}
 
 	.btn-lg {
-		font-size: 18px;
+		font-size: 22px;
 	}
 
 	.homepage p {
-		font-size: 18px;
+		font-size: 22px;
 	}
 
 	.navbar-item {
@@ -218,6 +223,9 @@ footer {
 
 	footer img {
 		width: 80%;
+	}
+	.cftp {
+		visibility: hidden;
 	}
 
 }
