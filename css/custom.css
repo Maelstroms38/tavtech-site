@@ -85,14 +85,6 @@ p, b {
 	font-weight: 600;
 	font-style: normal;
 }
-.partner {
-	padding: 10px 0;
-	display: block;
-	max-width:100%;
-	max-height:100%;
-	width: auto;
-	height: auto;
-}
 
 ul.nav {
 	font-size: 13px;
