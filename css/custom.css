@@ -13,6 +13,34 @@ ul.nav, .jumbotron h1 {
 p {
 	font-family: 'Montserrat', 'Helvetica', serif;
 }
+.team-member img {
+    width: 225px;
+    height: 225px;
+    border: 7px solid #fff;
+}
+.ml-auto, .mx-auto {
+    margin-left: auto!important;
+}
+.mr-auto, .mx-auto {
+    margin-right: auto!important;
+}
+.rounded-circle {
+    border-radius: 50%!important;
+}
+ul.social-buttons li a {
+    font-size: 20px;
+    line-height: 40px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+    color: #fff;
+    border-radius: 100%;
+    outline: 0;
+    background-color: #212529;
+}
 .sd-schedule__event {
     max-width: 60%;
     -ms-flex: 1;
